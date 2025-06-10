@@ -1,18 +1,17 @@
 # Nyya Emmanuel Toussaint
 
 ## ABOUT ME
-
 I hold heritage from Haiti and North Carolina. I am a Ph.D. student in History at Florida International University, researching Black religion, food, and music as core components of Pan-Africanism and Négritude in the Caribbean and U.S. South low-country regions. I am a graduate of [Union Theological Seminary](https://utsnyc.edu), [The New School](thenewschool.edu), and [Florida International University](fiu.edu). 
 
 I am a founding member and the Creative Director of [Lanbi ak Manchèt](instagram.com/lanbiakmanchet], an online cultural and spiritual organizing hub committed to social advocacy and liberation. Hundreds of people have gathered for my public programs on Caribbean culture and spirituality, and the recorded events have garnered thousands of playbacks. I am also the lead creator of Duolingo’s Haitian Creole course for English speakers. I serve as a board member of KOSANBA – Association of Vodou Studies and is a member of the Haitian Studies Association and the Political Theology Network. 
-## Contact information
+
+## CONTACT INFORMATION
 [Nyya Toussaint](mailto:ntous005@fiu.edu)
 
 
 ## EDUCATION
 
 ### Graduate
-
 Florida International University
 Doctor of Philosophy, History, Expected May 2028
 Lead Advisor: Chantalle Verna, Ph.D.
@@ -28,7 +27,6 @@ Concentration: Sociology of Religion/Social Ethics
 Lead Advisor: Samuel Cruz, Ph.D.
 
 ### Undergraduate
-
 Florida International University 
 Bachelor of Arts, International Relations, May 2017
 Other Majors: Sociology; Latin American & Caribbean Studies
@@ -36,7 +34,9 @@ Minors: Political Science; Religious Studies
 Certificates: Latin American & Caribbean Studies; Haitian Studies
 Lead Advisor: Marcie Washington, Ph.D.
 
+
 ## RESEARCH EXPERIENCE
+
 **Research Assistant**, Miami AIDS Project, Florida International University
 January 2025 - Present
 Direct Faculty Leads: Dudley Alexis, Dr. Julio Capó
@@ -97,7 +97,6 @@ Direct Faculty Lead: Dr. Samuel Cruz
 
 
 ## RELATED PROFESSIONAL DEVELOPMENT 
-
 **Year 5 Fellow**, Intercultural Leadership Institute 
 Mississippi, Louisiana, South Dakota
 July 2023 - June 2024
@@ -165,9 +164,9 @@ Inauguration of Theologizing the Caribbean’s Decolonization, Union Theological
 [“Duolingo adiciona idioma oficial do Haiti ao seu app”](https://www.tecmundo.com.br/software/234294-duolingo-adiciona-idioma-oficial-haiti-app.htm), Nilton Kleina, TecMundo Brazil, February 2022
 [“Learn Haitian Creole, the language of the first Black independent nation”](https://blog.duolingo.com/haitian-creole-duolingo/), Duolingo Blog, February 2022Make another list with your publications.
 
-> Write here a quote from an author you love!
 
 ## LANGUAGE PROFICIENCY 
+
 Proficiency: U.S. English, Black American English, Haitian Creole
 Working Proficiency: Spanish, French
 
